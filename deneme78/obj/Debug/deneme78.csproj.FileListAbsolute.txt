@@ -1,0 +1,13 @@
+C:\Users\legen\source\repos\deneme78\deneme78\bin\Debug\deneme78.exe.config
+C:\Users\legen\source\repos\deneme78\deneme78\bin\Debug\deneme78.exe
+C:\Users\legen\source\repos\deneme78\deneme78\bin\Debug\deneme78.pdb
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.Form1.resources
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.Properties.Resources.resources
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.exe
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.pdb
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.Delegate.resources
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.Form3.resources
+C:\Users\legen\source\repos\deneme78\deneme78\obj\Debug\deneme78.Form4.resources
